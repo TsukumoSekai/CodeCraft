@@ -1,0 +1,25 @@
+{
+    "name": "OfflineFantasy.GameCraft.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b70676b43184f2546802d69a01aab0fc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "PACKAGE_UNITY_UI",
+        "TEST"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.ugui",
+            "expression": "2.0.0",
+            "define": "PACKAGE_UNITY_UI"
+        }
+    ],
+    "noEngineReferences": false
+}

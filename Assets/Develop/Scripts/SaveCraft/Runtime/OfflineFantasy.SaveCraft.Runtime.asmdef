@@ -1,0 +1,23 @@
+{
+    "name": "OfflineFantasy.SaveCraft.Runtime",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "PACKAGE_NEWTONSOFT_JSON",
+        "PACKAGE_CYSHARP_UNITASK"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.unitask",
+            "expression": "",
+            "define": "PACKAGE_UNITASK"
+        }
+    ],
+    "noEngineReferences": false
+}
