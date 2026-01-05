@@ -1,0 +1,27 @@
+{
+    "name": "OfflineFantasy.GameCraft.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.UI",
+        "UniTask",
+        "Unity.TextMeshPro",
+        "Luban.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "ENABLE_CYSHARP_UNITASK"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.unitask",
+            "expression": "",
+            "define": "ENABLE_CYSHARP_UNITASK"
+        }
+    ],
+    "noEngineReferences": false
+}
